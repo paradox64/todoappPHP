@@ -1,0 +1,17 @@
+{
+    "name": "intel/vsc-php",
+    "autoload": {
+        "psr-4": {
+            "Intel\\VscPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paradox64",
+            "email": "43723844+paradox64@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.6"
+    }
+}
