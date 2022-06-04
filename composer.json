@@ -2,7 +2,7 @@
     "name": "intel/vsc-php",
     "autoload": {
         "psr-4": {
-            "Intel\\VscPhp\\": "src/"
+            "app\\": "src/"
         }
     },
     "authors": [
